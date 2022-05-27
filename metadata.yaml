@@ -1,11 +1,16 @@
 _repo: Please-pass-the-cream-A-comedy_68147
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68147-h/images/cover.jpg
 creator:
   author:
     agent_name: Holmes, Charles Nevers
     gutenberg_agent_id: '54628'
     url: http://www.gutenberg.org/2009/agents/54628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68147#Please-pass-the-cream-A-comedy
 gutenberg_issued: '2022-05-22'
 identifiers:
   gutenberg: '68147'
